@@ -1,6 +1,6 @@
 # 🤖 Solana-AI-Agent-Tool
 
-The **AI Agent** is a pioneering entity developed on the **Solana blockchain**, combining advanced artificial intelligence with social media features and decentralized trading. This innovative digital being aims to connect the worlds of AI, social media, and cryptocurrency.
+The **Solana AI Agent** is a pioneering entity developed on the **Solana blockchain**, combining advanced artificial intelligence with social media features and decentralized trading. This innovative digital being aims to connect the worlds of AI, social media, and cryptocurrency.
 
 ### SAAT - Social Onchain Intelligence Agent (S.O.C.I.A)
 
