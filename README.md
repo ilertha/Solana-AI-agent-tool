@@ -430,7 +430,11 @@ pnpm docs:serve
 
 ## Support & Community
 
-- GitHub Issues: [Report bugs](https://github.com/rizzolib/Solana-AI-agent-tool/issues)
+- GitHub Issues: [Report bugs](https://github.com/ilertha/Solana-AI-agent-tool/issues)
+
+## Contact Info
+
+- Telegram: @ilertha
 
 ## License
 
